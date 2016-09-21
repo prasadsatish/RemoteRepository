@@ -5,6 +5,7 @@ public class GitClass {
 		// TODO Auto-generated method stub
 		//adding a comment
 		//adding another comment
+		//4th comment
 
 	}
 
